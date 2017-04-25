@@ -1,8 +1,8 @@
 {
 "versions": [{
-    "versiontype": "main",
-    "title": "Published version of Marked-S languages",
+    "versiontype": "first_edition",
+    "title": "A typology of marked-S languages",
     "authors": [{"name": "Corinna Handschuh"}],
-    "publishedAt": "201i4-03-05T00:00:33.000Z"
+    "publishedAt": "2014-03-05T00:00:33.000Z"
   }]
 }
